@@ -1,0 +1,20 @@
+# depedencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+/storage
+.env
+docker-compose.yml
+
+# misc
+DS_Store
+.package-lock.json
+
+keys.json
+netlify.toml
+/.netlify
